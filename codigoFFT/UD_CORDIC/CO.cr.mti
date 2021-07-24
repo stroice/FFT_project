@@ -1,0 +1,152 @@
+/home/mcre310/TFM/UD_CORDIC/Counter.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/mcre310/TFM/UD_CORDIC/Counter.vhd
+QuestaSim vcom 10.6c_1 Compiler 2017.09 Sep 15 2017
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity COUNTER
+-- Compiling architecture Behavioral of COUNTER
+
+} {} {}} /home/mcre310/TFM/UD_CORDIC/Datapath_csd.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/mcre310/TFM/UD_CORDIC/Datapath_csd.vhd
+QuestaSim vcom 10.6c_1 Compiler 2017.09 Sep 15 2017
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Datapath_csd
+-- Compiling architecture arch of Datapath_csd
+
+} {} {}} /home/mcre310/TFM/UD_CORDIC/buffer_1bit.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/mcre310/TFM/UD_CORDIC/buffer_1bit.vhd
+QuestaSim vcom 10.6c_1 Compiler 2017.09 Sep 15 2017
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity buffer_1bit
+-- Compiling architecture escalable of buffer_1bit
+
+} {} {}} /home/mcre310/TFM/UD_CORDIC/phi2rad.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/mcre310/TFM/UD_CORDIC/phi2rad.vhd
+QuestaSim vcom 10.6c_1 Compiler 2017.09 Sep 15 2017
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity phi2rad
+-- Compiling architecture arch of phi2rad
+
+} {} {}} /home/mcre310/TFM/UD_CORDIC/tb_bin2csd.vhd {2 {vcom -work work -2002 -explicit -vopt -stats=none /home/mcre310/TFM/UD_CORDIC/tb_bin2csd.vhd
+QuestaSim vcom 10.6c_1 Compiler 2017.09 Sep 15 2017
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity bin2csd_tb
+-- Compiling architecture arch of bin2csd_tb
+** Warning: /home/mcre310/TFM/UD_CORDIC/tb_bin2csd.vhd(22): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} /home/mcre310/TFM/UD_CORDIC/CORDIC.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/mcre310/TFM/UD_CORDIC/CORDIC.vhd
+QuestaSim vcom 10.6c_1 Compiler 2017.09 Sep 15 2017
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity CORDIC
+-- Compiling architecture rtl of CORDIC
+
+} {} {}} /home/mcre310/TFM/UD_CORDIC/bin2csd.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/mcre310/TFM/UD_CORDIC/bin2csd.vhd
+QuestaSim vcom 10.6c_1 Compiler 2017.09 Sep 15 2017
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity bin2csd
+-- Compiling architecture arch of bin2csd
+-- Compiling entity bin2csd_stage
+-- Compiling architecture arch of bin2csd_stage
+
+} {} {}} /home/mcre310/TFM/UD_CORDIC/UD_CORDIC_csd.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/mcre310/TFM/UD_CORDIC/UD_CORDIC_csd.vhd
+QuestaSim vcom 10.6c_1 Compiler 2017.09 Sep 15 2017
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity UD_CORDIC_csd
+-- Compiling architecture arch of UD_CORDIC_csd
+
+} {} {}} /home/mcre310/TFM/UD_CORDIC/Components.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/mcre310/TFM/UD_CORDIC/Components.vhd
+QuestaSim vcom 10.6c_1 Compiler 2017.09 Sep 15 2017
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Compiling package Components
+-- Compiling package body Components
+-- Loading package Components
+
+} {} {}} /home/mcre310/TFM/UD_CORDIC/ctrl_csd.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/mcre310/TFM/UD_CORDIC/ctrl_csd.vhd
+QuestaSim vcom 10.6c_1 Compiler 2017.09 Sep 15 2017
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ctrl_csd
+-- Compiling architecture arch of ctrl_csd
+
+} {} {}} /home/mcre310/TFM/UD_CORDIC/MicroRot_csd.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/mcre310/TFM/UD_CORDIC/MicroRot_csd.vhd
+QuestaSim vcom 10.6c_1 Compiler 2017.09 Sep 15 2017
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity MicroRot_csd
+-- Compiling architecture arch of MicroRot_csd
+-- Compiling entity RMCM_st1_csd
+-- Compiling architecture arch of RMCM_st1_csd
+-- Compiling entity RMCM_st2_csd
+-- Compiling architecture arch of RMCM_st2_csd
+-- Compiling entity RMCM_sti_csd
+-- Compiling architecture arch of RMCM_sti_csd
+
+} {} {}} /home/mcre310/TFM/UD_CORDIC/W4rot.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/mcre310/TFM/UD_CORDIC/W4rot.vhd
+QuestaSim vcom 10.6c_1 Compiler 2017.09 Sep 15 2017
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity W4rot
+-- Compiling architecture arch of W4rot
+
+} {} {}} /home/mcre310/TFM/UD_CORDIC/tb_CORDIC_Simple.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/mcre310/TFM/UD_CORDIC/tb_CORDIC_Simple.vhd
+QuestaSim vcom 10.6c_1 Compiler 2017.09 Sep 15 2017
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_UD_CORDIC_simple
+-- Compiling architecture behaviour of tb_UD_CORDIC_simple
+
+} {} {}} /home/mcre310/TFM/UD_CORDIC/UD_CORDIC_csd_phi_tb.vhd {2 {vcom -work work -2002 -explicit -vopt -stats=none /home/mcre310/TFM/UD_CORDIC/UD_CORDIC_csd_phi_tb.vhd
+QuestaSim vcom 10.6c_1 Compiler 2017.09 Sep 15 2017
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Compiling entity UD_CORDIC_csd_phi_tb
+-- Compiling architecture arch of UD_CORDIC_csd_phi_tb
+** Warning: /home/mcre310/TFM/UD_CORDIC/UD_CORDIC_csd_phi_tb.vhd(45): (vcom-1194) FILE declaration was written using VHDL 1987 syntax.
+** Warning: /home/mcre310/TFM/UD_CORDIC/UD_CORDIC_csd_phi_tb.vhd(46): (vcom-1194) FILE declaration was written using VHDL 1987 syntax.
+
+} {} {}} /home/mcre310/TFM/UD_CORDIC/UD_CORDIC_csd_phi.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/mcre310/TFM/UD_CORDIC/UD_CORDIC_csd_phi.vhd
+QuestaSim vcom 10.6c_1 Compiler 2017.09 Sep 15 2017
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity UD_CORDIC_csd_phi
+-- Compiling architecture arch of UD_CORDIC_csd_phi
+
+} {} {}}

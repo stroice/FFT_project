@@ -1,0 +1,1954 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/mcre310/TFM
+T_opt
+!s110 1625073612
+VU9I=5n7O6nU0bIM9S9c?U2
+04 37 46 work tb_x_y_butterfly_memories_64_consumpt tb_x_y_butterfly_memories_64_consumpt_behavior 1
+=46-525400887201-60dca7cc-8d67f-790f
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OE;O;10.6c_1;65
+R0
+T_opt1
+!s110 1625172319
+VlXic3f[kdU<ABkeQ=Ak<L3
+Z4 04 22 8 work tb_consumptiontest_but behavior 1
+=1-525400887201-60de295f-333ab-3789
+o-quiet -auto_acc_if_foreign -work work -sdftyp /tb_ConsumptionTest_but/DUT=/home/mcre310/TFM/Comparison_Butterfly/Syntetization/SDF_Memory/SFF_mem.sdf -suppress 1948
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1625172565
+VP@o]7hOiQ[;]KWKl7?`J`2
+R4
+=2-525400887201-60de2a54-e733b-3fc3
+R1
+R2
+n@_opt2
+R3
+Eadder_carry
+Z5 w1624479623
+Z6 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z8 d/home/mcre310/TFM/Comparison_Butterfly
+Z9 8/home/mcre310/TFM/Comparison_Butterfly/Adder_Carry.vhd
+Z10 F/home/mcre310/TFM/Comparison_Butterfly/Adder_Carry.vhd
+l0
+L4
+V;8;94YFESY2MgfMUX6QIX2
+!s100 PiiiadaA41E8K9=4KCi@S3
+Z11 OE;C;10.6c_1;65
+32
+Z12 !s110 1625172558
+!i10b 1
+Z13 !s108 1625172558.000000
+Z14 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/Adder_Carry.vhd|
+Z15 !s107 /home/mcre310/TFM/Comparison_Butterfly/Adder_Carry.vhd|
+!i113 0
+Z16 o-work work -2002 -explicit
+Z17 tExplicit 1 CvgOpt 0
+Aadder_carry_rtl
+R6
+R7
+Z18 DEx4 work 11 adder_carry 0 22 ;8;94YFESY2MgfMUX6QIX2
+l32
+L17
+VHFHeXVV`jU4kWfRigJRE02
+!s100 ;HV84aXTk1RCX79Bom6N32
+R11
+32
+R12
+!i10b 1
+R13
+R14
+R15
+!i113 0
+R16
+R17
+Artl
+R6
+R7
+R18
+l32
+L17
+V;Q9CZ>>f;2UhkmRI6>h_33
+!s100 zT?P7I>THkamV5NRII7Ei0
+R11
+32
+!s110 1624462972
+!i10b 1
+Z19 !s108 1624462972.000000
+R14
+R15
+!i113 0
+R16
+R17
+w1618070803
+Ebutterfly
+Z20 w1623666207
+Z21 DPx4 ieee 9 math_real 0 22 Sk6CSihbPL<f[^Shm]=KX0
+Z22 DPx4 work 10 components 0 22 LRPZ[1W=f000h>kKQ04z=2
+Z23 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R6
+R7
+R8
+Z24 8/home/mcre310/TFM/Comparison_Butterfly/Butterfly.vhd
+Z25 F/home/mcre310/TFM/Comparison_Butterfly/Butterfly.vhd
+l0
+L9
+VR2<k??KbbeT9z`WOd3:[72
+!s100 o6ijVFJ:<<lLD<gNdPVAe3
+R11
+32
+Z26 !s110 1623667032
+!i10b 1
+Z27 !s108 1623667032.000000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/Butterfly.vhd|
+Z29 !s107 /home/mcre310/TFM/Comparison_Butterfly/Butterfly.vhd|
+!i113 0
+R16
+R17
+Abutterfly_arch
+R21
+R22
+R23
+R6
+R7
+Z30 DEx4 work 9 butterfly 0 22 R2<k??KbbeT9z`WOd3:[72
+l57
+L23
+V<l^kn_zYU1PC5<`f1CA<B3
+!s100 7`FH8@667iXWo2N=cBIN22
+R11
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 0
+R16
+R17
+Aarch
+R21
+R22
+R23
+R6
+R7
+R30
+l57
+L23
+V;Xl^E5nbfDfRP@iO;fCQE1
+!s100 BHaPz@N;M@?CcXR;9?NMZ0
+R11
+32
+Z31 !s110 1620083054
+!i10b 1
+Z32 !s108 1620083054.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/Comparison_Butterfly/Butterfly.vhd|
+!s107 /home/mcre310/Comparison_Butterfly/Butterfly.vhd|
+!i113 0
+R16
+R17
+w1620044112
+Z33 d/home/mcre310/Comparison_Butterfly
+F/home/mcre310/Comparison_Butterfly/Butterfly.vhd
+8/home/mcre310/Comparison_Butterfly/Butterfly.vhd
+Ebutterfly_adddirectly
+Z34 w1623681147
+R21
+R22
+R23
+R6
+R7
+R8
+Z35 8/home/mcre310/TFM/Comparison_Butterfly/Butterfly_+.vhd
+Z36 F/home/mcre310/TFM/Comparison_Butterfly/Butterfly_+.vhd
+l0
+L9
+V<g2NdBZ8A_04FMT4c;EGY0
+!s100 Xi?nf<hHAkZ^ITS;5Bj?:0
+R11
+32
+Z37 !s110 1623688040
+!i10b 1
+Z38 !s108 1623688040.000000
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/Butterfly_+.vhd|
+Z40 !s107 /home/mcre310/TFM/Comparison_Butterfly/Butterfly_+.vhd|
+!i113 0
+R16
+R17
+Abutterfly_adddirectly_arch
+R21
+R22
+R23
+R6
+R7
+DEx4 work 21 butterfly_adddirectly 0 22 <g2NdBZ8A_04FMT4c;EGY0
+l49
+L23
+VZ?fC`MZU8IA4KK=P<=eKl0
+!s100 QeBlzIADnL`P_8EmP0cGZ2
+R11
+32
+R37
+!i10b 1
+R38
+R39
+R40
+!i113 0
+R16
+R17
+Ebutterfly_fft_mem
+Z41 w1623697698
+R21
+R22
+R23
+R6
+R7
+R8
+Z42 8/home/mcre310/TFM/Comparison_Butterfly/Butterfly_SFF_conMemnorias.vhd
+Z43 F/home/mcre310/TFM/Comparison_Butterfly/Butterfly_SFF_conMemnorias.vhd
+l0
+L11
+VWe`L43DFzHh?Y567[cOXj2
+!s100 _YWLomLPB?QRi4;^f?XiL0
+R11
+32
+R12
+!i10b 1
+R13
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/Butterfly_SFF_conMemnorias.vhd|
+Z45 !s107 /home/mcre310/TFM/Comparison_Butterfly/Butterfly_SFF_conMemnorias.vhd|
+!i113 0
+R16
+R17
+Abutterfly_fft_mem_arch
+R21
+R22
+R23
+R6
+R7
+DEx4 work 17 butterfly_fft_mem 0 22 We`L43DFzHh?Y567[cOXj2
+l47
+L25
+V5lA]>VQkVMW[l?QHPc8cE3
+!s100 Z?PXbchjQ367z:QdL8hP_2
+R11
+32
+R12
+!i10b 1
+R13
+R44
+R45
+!i113 0
+R16
+R17
+Ebutterfly_proposed
+Z46 w1623688760
+R21
+R22
+R23
+R6
+R7
+R8
+R35
+R36
+l0
+L9
+V??4cfI0[HE]PIGnbPM29d0
+!s100 =SmmX[Q^fmhTC9n0EJQE>1
+R11
+32
+R12
+!i10b 1
+R13
+R39
+R40
+!i113 0
+R16
+R17
+Abutterfly_proposed_arch
+R21
+R22
+R23
+R6
+R7
+DEx4 work 18 butterfly_proposed 0 22 ??4cfI0[HE]PIGnbPM29d0
+l50
+L23
+ViYZ==zPMhQUDl_`mma1GH0
+!s100 nJcX_Xz3ljK<0_6Pbc0UQ1
+R11
+32
+R12
+!i10b 1
+R13
+R39
+R40
+!i113 0
+R16
+R17
+Ebutterfly_proposed_adder
+Z47 w1623688035
+R21
+R22
+R23
+R6
+R7
+R8
+R24
+R25
+l0
+L9
+V^0TOA`;EFmkWlD2beiY170
+!s100 Q``?Zln<I`3Y6:]Xo<TW12
+R11
+32
+R12
+!i10b 1
+R13
+R28
+R29
+!i113 0
+R16
+R17
+Abutterfly_proposed_adder_arch
+R21
+R22
+R23
+R6
+R7
+DEx4 work 24 butterfly_proposed_adder 0 22 ^0TOA`;EFmkWlD2beiY170
+l58
+L23
+Vz_`I`fnQkmcfnmkn`YlXn0
+!s100 _<@Mnb8U[VA>AkPKKkF4N0
+R11
+32
+R12
+!i10b 1
+R13
+R28
+R29
+!i113 0
+R16
+R17
+Ebutterfly_proposed_bien
+Z48 w1624983542
+R21
+R22
+R23
+R6
+R7
+R8
+Z49 8/home/mcre310/TFM/Comparison_Butterfly/Butterfly_Proposed_BIEN.vhd
+Z50 F/home/mcre310/TFM/Comparison_Butterfly/Butterfly_Proposed_BIEN.vhd
+l0
+L9
+VVe2B6elWLI71VfY>AD_[h0
+!s100 ZnVS7X@XMgEkBJ31a@abd0
+R11
+32
+Z51 !s110 1625006767
+!i10b 1
+Z52 !s108 1625006767.000000
+Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/Butterfly_Proposed_BIEN.vhd|
+Z54 !s107 /home/mcre310/TFM/Comparison_Butterfly/Butterfly_Proposed_BIEN.vhd|
+!i113 0
+R16
+R17
+Abutterfly_proposed_bien_arch
+R21
+R22
+R23
+R6
+R7
+DEx4 work 23 butterfly_proposed_bien 0 22 Ve2B6elWLI71VfY>AD_[h0
+l54
+L29
+VZ?2dWR7U6>=adSG8nf8[R2
+!s100 4bDCVRYhGh[gLG9T9<Tej0
+R11
+32
+R51
+!i10b 1
+R52
+R53
+R54
+!i113 0
+R16
+R17
+Ebutterfly_registers
+Z55 w1623697597
+R21
+R22
+R23
+R6
+R7
+R8
+Z56 8/home/mcre310/TFM/Comparison_Butterfly/Butterfly_registers.vhd
+Z57 F/home/mcre310/TFM/Comparison_Butterfly/Butterfly_registers.vhd
+l0
+L10
+VOXmkK^@ml?;=Y7FMi72F?3
+!s100 UJJ?2SZa]9`d6T`N=39f33
+R11
+32
+R12
+!i10b 1
+R13
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/Butterfly_registers.vhd|
+Z59 !s107 /home/mcre310/TFM/Comparison_Butterfly/Butterfly_registers.vhd|
+!i113 0
+R16
+R17
+Abutterfly_registers_arch
+R21
+R22
+R23
+R6
+R7
+DEx4 work 19 butterfly_registers 0 22 OXmkK^@ml?;=Y7FMi72F?3
+l43
+L23
+V`C7`km?n[lLB<Tg992i_m0
+!s100 ZYf^6[Fj]@a?MiW]FR=Qk3
+R11
+32
+R12
+!i10b 1
+R13
+R58
+R59
+!i113 0
+R16
+R17
+Aarch
+R21
+R22
+R23
+R6
+R7
+DEx4 work 19 butterfly_registers 0 22 B5`Dl:3078bBgLX[^ezYL2
+l57
+L25
+V9B:GOizz]g65`XSlTm0;E3
+!s100 QAI;Q2MUSBH1MIYF``X]C1
+R11
+32
+R31
+!i10b 1
+R32
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/Comparison_Butterfly/Butterfly_SFF_conMemnorias.vhd|
+!s107 /home/mcre310/Comparison_Butterfly/Butterfly_SFF_conMemnorias.vhd|
+!i113 0
+R16
+R17
+F/home/mcre310/Comparison_Butterfly/Butterfly_SFF_conMemnorias.vhd
+w1620044311
+8/home/mcre310/Comparison_Butterfly/Butterfly_SFF_conMemnorias.vhd
+R33
+Ebutterfly_sdf_memories
+Z60 w1623704281
+R21
+R22
+R23
+R6
+R7
+R8
+Z61 8/home/mcre310/TFM/Comparison_Butterfly/Butterfly_SDF_memories.vhd
+Z62 F/home/mcre310/TFM/Comparison_Butterfly/Butterfly_SDF_memories.vhd
+l0
+L10
+V`6SfFb;J?N:@^ZB`2QeOU3
+!s100 DiCV6a`n1DDPc1i92X6cb1
+R11
+32
+R12
+!i10b 1
+R13
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/Butterfly_SDF_memories.vhd|
+Z64 !s107 /home/mcre310/TFM/Comparison_Butterfly/Butterfly_SDF_memories.vhd|
+!i113 0
+R16
+R17
+Abutterfly_sdf_memories_arch
+R21
+R22
+R23
+R6
+R7
+DEx4 work 22 butterfly_sdf_memories 0 22 `6SfFb;J?N:@^ZB`2QeOU3
+l44
+L24
+V=J2[0BV6M5KJVbdY=38nA0
+!s100 c@G^YLUOCHA0z8CSA^Q<D3
+R11
+32
+R12
+!i10b 1
+R13
+R63
+R64
+!i113 0
+R16
+R17
+Ebutterfly_sdf_registers
+Z65 w1623704255
+R21
+R22
+R23
+R6
+R7
+R8
+Z66 8/home/mcre310/TFM/Comparison_Butterfly/Butterfly_SDF_registers.vhd
+Z67 F/home/mcre310/TFM/Comparison_Butterfly/Butterfly_SDF_registers.vhd
+l0
+L9
+VH`J<dBRV9:^LjddX@4NI?0
+!s100 YU?@17^S4Zodb3b75ND>N1
+R11
+32
+R12
+!i10b 1
+R13
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/Butterfly_SDF_registers.vhd|
+Z69 !s107 /home/mcre310/TFM/Comparison_Butterfly/Butterfly_SDF_registers.vhd|
+!i113 0
+R16
+R17
+Abutterfly_sdf_registers_arch
+R21
+R22
+R23
+R6
+R7
+DEx4 work 23 butterfly_sdf_registers 0 22 H`J<dBRV9:^LjddX@4NI?0
+l40
+L22
+V@?Gf24gkmT67jlD^P^[L^2
+!s100 a3AE:99OK;5nL]]2_Tde53
+R11
+32
+R12
+!i10b 1
+R13
+R68
+R69
+!i113 0
+R16
+R17
+XButterfly_tb_SystemV_sv_unit
+Z70 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+VBoka1P3je:l0P1LHU0WU@1
+r1
+!s85 0
+31
+!i10b 1
+!s100 I2f>AaW]S0SGD4a6e6l2l1
+IBoka1P3je:l0P1LHU0WU@1
+!i103 1
+S1
+R33
+w1620079459
+8/home/mcre310/Comparison_Butterfly/Butterfly_tb_SystemV.sv
+F/home/mcre310/Comparison_Butterfly/Butterfly_tb_SystemV.sv
+L0 4
+Z71 OE;L;10.6c_1;65
+!s108 1620079464.000000
+!s107 /home/mcre310/Comparison_Butterfly/Butterfly_tb_SystemV.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/mcre310/Comparison_Butterfly/Butterfly_tb_SystemV.sv|
+!i113 0
+Z72 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@butterfly_tb_@system@v_sv_unit
+vButterfly_tb_SystVer
+R70
+R12
+!i10b 1
+!s100 k_KGIIXD>:h>F35:Bcn?g3
+IMCIaZCJ>6zDRDZa?iFSRZ0
+Z73 VDg1SIo80bB@j0V0VzS_@n1
+!s105 Butterfly_tb_SystemV_sv_unit
+S1
+R8
+w1620084889
+8/home/mcre310/TFM/Comparison_Butterfly/Butterfly_tb_SystemV.sv
+F/home/mcre310/TFM/Comparison_Butterfly/Butterfly_tb_SystemV.sv
+L0 6
+R71
+r1
+!s85 0
+31
+R13
+!s107 /home/mcre310/TFM/Comparison_Butterfly/Butterfly_tb_SystemV.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/Butterfly_tb_SystemV.sv|
+!i113 0
+R72
+R2
+n@butterfly_tb_@syst@ver
+Pcomponents
+R21
+R23
+R6
+R7
+Z74 w1618055267
+R33
+Z75 8/home/mcre310/Comparison_Butterfly/Components.vhd
+Z76 F/home/mcre310/Comparison_Butterfly/Components.vhd
+l0
+L8
+VLRPZ[1W=f000h>kKQ04z=2
+!s100 =A:<7l?;Lzd>ZKd[_eOQR2
+R11
+32
+b1
+Z77 !s110 1619387391
+!i10b 1
+Z78 !s108 1619387391.000000
+Z79 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/Comparison_Butterfly/Components.vhd|
+Z80 !s107 /home/mcre310/Comparison_Butterfly/Components.vhd|
+!i113 0
+R16
+R17
+Bbody
+R22
+R21
+R23
+R6
+R7
+l0
+L32
+VnWZl2G?1dkOT8D_nLlZT50
+!s100 SzF88JOa;ma9k44>i?hYD3
+R11
+32
+R77
+!i10b 1
+R78
+R79
+R80
+!i113 0
+R16
+R17
+Ecounter
+Z81 w1618100064
+Z82 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z83 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R6
+R7
+R8
+Z84 8/home/mcre310/TFM/Comparison_Butterfly/Counter.vhd
+Z85 F/home/mcre310/TFM/Comparison_Butterfly/Counter.vhd
+l0
+L7
+VhdE9cYb:GBcMYQG<Oolf32
+!s100 cfY>f6@nE4o3Sz9Vd57fO2
+R11
+32
+R12
+!i10b 1
+R13
+Z86 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/Counter.vhd|
+Z87 !s107 /home/mcre310/TFM/Comparison_Butterfly/Counter.vhd|
+!i113 0
+R16
+R17
+Abehavioral
+R82
+R83
+R6
+R7
+DEx4 work 7 counter 0 22 hdE9cYb:GBcMYQG<Oolf32
+l21
+L19
+V[3`AnEYEnml7TmEflJ:oD2
+!s100 YkUdDfA0KcTda6^]]Aagb1
+R11
+32
+R12
+!i10b 1
+R13
+R86
+R87
+!i113 0
+R16
+R17
+Edelay
+Z88 w1624479645
+R21
+R23
+R6
+R7
+R8
+Z89 8/home/mcre310/TFM/Comparison_Butterfly/Delay.vhd
+Z90 F/home/mcre310/TFM/Comparison_Butterfly/Delay.vhd
+l0
+L9
+VYB=eUFLkin90giXo8RaOz3
+!s100 ^fR_B_oQP?bEYLMj^k@760
+R11
+32
+R12
+!i10b 1
+R13
+Z91 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/Delay.vhd|
+Z92 !s107 /home/mcre310/TFM/Comparison_Butterfly/Delay.vhd|
+!i113 0
+R16
+R17
+Adelay_arch
+R21
+R23
+R6
+R7
+Z93 DEx4 work 5 delay 0 22 YB=eUFLkin90giXo8RaOz3
+l47
+L20
+VTE<9L9PH`fWn4586bGcmo0
+!s100 <TzJV8z?2Ro7Oj>@9cLN32
+R11
+32
+R12
+!i10b 1
+R13
+R91
+R92
+!i113 0
+R16
+R17
+Aarch
+R21
+R23
+R6
+R7
+R93
+l47
+L20
+Vf8[@n;G4UKlND?>lTb3f00
+!s100 Nm`1@If;cPg;OIzAUDab[0
+R11
+32
+Z94 !s110 1624462973
+!i10b 1
+R19
+R91
+R92
+!i113 0
+R16
+R17
+w1591852306
+Edelay1bit
+Z95 w1624479660
+R23
+R6
+R7
+R8
+Z96 8/home/mcre310/TFM/Comparison_Butterfly/Delay1bit.vhd
+Z97 F/home/mcre310/TFM/Comparison_Butterfly/Delay1bit.vhd
+l0
+L8
+VR3mZGV=2>JB2Ij]^zVibi2
+!s100 `ME8m=;9DnJV];bd8b]]a2
+R11
+32
+R12
+!i10b 1
+R13
+Z98 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/Delay1bit.vhd|
+Z99 !s107 /home/mcre310/TFM/Comparison_Butterfly/Delay1bit.vhd|
+!i113 0
+R16
+R17
+Adelay1bit_arch
+R23
+R6
+R7
+Z100 DEx4 work 9 delay1bit 0 22 R3mZGV=2>JB2Ij]^zVibi2
+l21
+L17
+VNZ9i_di:2;NF4bQo6[Czl3
+!s100 GiPRWM5IRGz34cD;2eAZ<1
+R11
+32
+R12
+!i10b 1
+R13
+R98
+R99
+!i113 0
+R16
+R17
+Aarch
+R23
+R6
+R7
+R100
+l21
+L17
+V8`n?YZ1TM03Amoo8`1YK43
+!s100 @BDKi[deGWCZFRjM<773S3
+R11
+32
+R94
+!i10b 1
+Z101 !s108 1624462973.000000
+R98
+R99
+!i113 0
+R16
+R17
+w1567389820
+Edelaymem
+Z102 w1624479670
+R22
+R21
+R23
+R6
+R7
+R8
+Z103 8/home/mcre310/TFM/Comparison_Butterfly/DelayMem.vhd
+Z104 F/home/mcre310/TFM/Comparison_Butterfly/DelayMem.vhd
+l0
+L12
+VeS24CER8`ha=^SNW]]U5b3
+!s100 nMa5KEg^9J3dAei20_I=R3
+R11
+32
+R12
+!i10b 1
+R13
+Z105 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/DelayMem.vhd|
+Z106 !s107 /home/mcre310/TFM/Comparison_Butterfly/DelayMem.vhd|
+!i113 0
+R16
+R17
+Adelaymem_arch
+R22
+R21
+R23
+R6
+R7
+Z107 DEx4 work 8 delaymem 0 22 eS24CER8`ha=^SNW]]U5b3
+l32
+L26
+Vz0bTai887K;AO^2^35<Ld0
+!s100 8KmzXFYZT78Qf?NW=`NOO1
+R11
+32
+R12
+!i10b 1
+R13
+R105
+R106
+!i113 0
+R16
+R17
+Aarch
+R22
+R21
+R23
+R6
+R7
+R107
+l32
+L26
+VD7HK235mFMogLZUU=FSJj2
+!s100 E[?zA>JLRdba3l5k7K>@60
+R11
+32
+R94
+!i10b 1
+R101
+R105
+R106
+!i113 0
+R16
+R17
+w1618081368
+Edelayreg
+Z108 w1624479680
+R21
+R22
+R23
+R6
+R7
+R8
+Z109 8/home/mcre310/TFM/Comparison_Butterfly/DelayReg.vhd
+Z110 F/home/mcre310/TFM/Comparison_Butterfly/DelayReg.vhd
+l0
+L10
+VNTo3IoX@oJVgBF=b6nCO]3
+!s100 0Q]GXK3g7V9R^eHF2`edd2
+R11
+32
+Z111 !s110 1625172559
+!i10b 1
+Z112 !s108 1625172559.000000
+Z113 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/DelayReg.vhd|
+Z114 !s107 /home/mcre310/TFM/Comparison_Butterfly/DelayReg.vhd|
+!i113 0
+R16
+R17
+Adelayreg_arch
+R21
+R22
+R23
+R6
+R7
+Z115 DEx4 work 8 delayreg 0 22 NTo3IoX@oJVgBF=b6nCO]3
+l30
+L20
+V?n01?<zoOIf7WB5SS@n612
+!s100 @:I[PJ8RSeDcHen3H:Akc1
+R11
+32
+R111
+!i10b 1
+R112
+R113
+R114
+!i113 0
+R16
+R17
+Aarch
+R21
+R22
+R23
+R6
+R7
+R115
+l30
+L20
+VFnc]0OTGji^on744KeIcB0
+!s100 >KH@Y@BCbIl[6A?>d7nLZ0
+R11
+32
+R94
+!i10b 1
+R101
+R113
+R114
+!i113 0
+R16
+R17
+w1618602610
+Eentryinterface
+Z116 w1624550034
+R23
+R6
+R7
+R8
+Z117 8/home/mcre310/TFM/Comparison_Butterfly/EntryInterface.vhd
+Z118 F/home/mcre310/TFM/Comparison_Butterfly/EntryInterface.vhd
+l0
+L6
+V`V_]kTUoFFV<M<kCBAV3G0
+!s100 FzSoDk75g5Y^PQ>0L^G2:0
+R11
+32
+R111
+!i10b 1
+R112
+Z119 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/EntryInterface.vhd|
+Z120 !s107 /home/mcre310/TFM/Comparison_Butterfly/EntryInterface.vhd|
+!i113 0
+R16
+R17
+Aentryinterface_arch
+R23
+R6
+R7
+DEx4 work 14 entryinterface 0 22 `V_]kTUoFFV<M<kCBAV3G0
+l19
+L15
+V=I9QhDUdz3>m[O_D>4iCh0
+!s100 T7NmBmVi7R<ab5:;10RGP3
+R11
+32
+R111
+!i10b 1
+R112
+R119
+R120
+!i113 0
+R16
+R17
+Aarch
+R21
+R22
+R23
+R6
+R7
+DEx4 work 14 entryinterface 0 22 LQ<E31]B2;Jz6?nnW0OC11
+l22
+L18
+V;3XYUXR436gDKIPRKFa6O1
+!s100 W<H93UbN54NKeg8NKSDOb3
+R11
+32
+R94
+!i10b 1
+R101
+R119
+R120
+!i113 0
+R16
+R17
+w1618080249
+Efull_adder
+Z121 w1618070735
+R6
+R7
+R8
+Z122 8/home/mcre310/TFM/Comparison_Butterfly/Full_adder.vhd
+Z123 F/home/mcre310/TFM/Comparison_Butterfly/Full_adder.vhd
+l0
+L5
+V6K0EJDCo17R6c5n2lWcl23
+!s100 fcebM==3^?COdC9ib1WW03
+R11
+32
+R111
+!i10b 1
+R112
+Z124 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/Full_adder.vhd|
+Z125 !s107 /home/mcre310/TFM/Comparison_Butterfly/Full_adder.vhd|
+!i113 0
+R16
+R17
+Adata_flow
+R6
+R7
+DEx4 work 10 full_adder 0 22 6K0EJDCo17R6c5n2lWcl23
+l16
+L14
+Vl9IK;<UC7k^_J<RCSW[zS0
+!s100 >kKhgLa`1QH==XkkfY_YD3
+R11
+32
+R111
+!i10b 1
+R112
+R124
+R125
+!i113 0
+R16
+R17
+El_memory_proposed
+Z126 w1624995571
+R23
+R6
+R7
+R8
+Z127 8/home/mcre310/TFM/Comparison_Butterfly/L_Memory_Proposed.vhd
+Z128 F/home/mcre310/TFM/Comparison_Butterfly/L_Memory_Proposed.vhd
+l0
+L6
+Vz4z5?:HCd@Xgm;[@H63;@3
+!s100 44o:eifAU5737W?eCc1f;3
+R11
+32
+Z129 !s110 1624995581
+!i10b 1
+Z130 !s108 1624995581.000000
+Z131 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/L_Memory_Proposed.vhd|
+Z132 !s107 /home/mcre310/TFM/Comparison_Butterfly/L_Memory_Proposed.vhd|
+!i113 0
+R16
+R17
+Al_memory_proposed_behaviour
+R23
+R6
+R7
+DEx4 work 17 l_memory_proposed 0 22 z4z5?:HCd@Xgm;[@H63;@3
+l51
+L23
+Vz0>3UzlSiIJk1akiA7P>i3
+!s100 lc56PT_eZ0EKPW71NVjHA1
+R11
+32
+R129
+!i10b 1
+R130
+R131
+R132
+!i113 0
+R16
+R17
+Ememory_proposed_128
+Z133 w1625054870
+R23
+R6
+R7
+R8
+Z134 8/home/mcre310/TFM/Comparison_Butterfly/Memory_Proposed_128.vhd
+Z135 F/home/mcre310/TFM/Comparison_Butterfly/Memory_Proposed_128.vhd
+l0
+L6
+V<dLfRE5oBi_6G<O8ZA>6a0
+!s100 6GG9Xh24SCV[j9lJ=N3TA2
+R11
+32
+R111
+!i10b 1
+R112
+Z136 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/Memory_Proposed_128.vhd|
+Z137 !s107 /home/mcre310/TFM/Comparison_Butterfly/Memory_Proposed_128.vhd|
+!i113 0
+R16
+R17
+Amemory_proposed_128_behaviour
+R23
+R6
+R7
+DEx4 work 19 memory_proposed_128 0 22 <dLfRE5oBi_6G<O8ZA>6a0
+l52
+L20
+VzdYQ`?G[A90]JO=MY3Ze;1
+!s100 kO0h1B0bm_7o1;]H44dXa2
+R11
+32
+R111
+!i10b 1
+R112
+R136
+R137
+!i113 0
+R16
+R17
+Ememory_proposed_256
+Z138 w1625054877
+R23
+R6
+R7
+R8
+Z139 8/home/mcre310/TFM/Comparison_Butterfly/Memory_Proposed_256.vhd
+Z140 F/home/mcre310/TFM/Comparison_Butterfly/Memory_Proposed_256.vhd
+l0
+L6
+Vc75;mF51QA3G1JYnbV3U[3
+!s100 iG0c_A`<EhG`ij4SbI]Oi3
+R11
+32
+R111
+!i10b 1
+R112
+Z141 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/Memory_Proposed_256.vhd|
+Z142 !s107 /home/mcre310/TFM/Comparison_Butterfly/Memory_Proposed_256.vhd|
+!i113 0
+R16
+R17
+Amemory_proposed_256_behaviour
+R23
+R6
+R7
+DEx4 work 19 memory_proposed_256 0 22 c75;mF51QA3G1JYnbV3U[3
+l50
+L20
+Vf9G7F4:[I_>4f=MnlNGhQ0
+!s100 ]L0:YQe4Zk6`d5PcdNB1P3
+R11
+32
+R111
+!i10b 1
+R112
+R141
+R142
+!i113 0
+R16
+R17
+Ememory_proposed_512
+Z143 w1625054886
+R23
+R6
+R7
+R8
+Z144 8/home/mcre310/TFM/Comparison_Butterfly/Memory_Proposed_512.vhd
+Z145 F/home/mcre310/TFM/Comparison_Butterfly/Memory_Proposed_512.vhd
+l0
+L6
+VPUIUS=N?TH@Y9FFdaQ<[[2
+!s100 <0;]d0^;TacPnW4Jh=::d2
+R11
+32
+R111
+!i10b 1
+R112
+Z146 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/Memory_Proposed_512.vhd|
+Z147 !s107 /home/mcre310/TFM/Comparison_Butterfly/Memory_Proposed_512.vhd|
+!i113 0
+R16
+R17
+Amemory_proposed_512_behaviour
+R23
+R6
+R7
+DEx4 work 19 memory_proposed_512 0 22 PUIUS=N?TH@Y9FFdaQ<[[2
+l52
+L20
+V]J`A>l@WK2:51h4gTP:B90
+!s100 <_9oL?Lj<X?Zj6?Lb:`L<0
+R11
+32
+R111
+!i10b 1
+R112
+R146
+R147
+!i113 0
+R16
+R17
+Ememory_proposed_64
+Z148 w1625073605
+R23
+R6
+R7
+R8
+Z149 8/home/mcre310/TFM/Comparison_Butterfly/Memory_Proposed_64.vhd
+Z150 F/home/mcre310/TFM/Comparison_Butterfly/Memory_Proposed_64.vhd
+l0
+L6
+VZI:fYoOeIobNgaJBfG5GK3
+!s100 5FLbFoLzFC[994Uf?7:KS2
+R11
+32
+R111
+!i10b 1
+R112
+Z151 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/Memory_Proposed_64.vhd|
+Z152 !s107 /home/mcre310/TFM/Comparison_Butterfly/Memory_Proposed_64.vhd|
+!i113 0
+R16
+R17
+Amemory_proposed_64_behaviour
+R23
+R6
+R7
+DEx4 work 18 memory_proposed_64 0 22 ZI:fYoOeIobNgaJBfG5GK3
+l52
+L20
+V@3L^AWo`?2cX3X[lBjzW[3
+!s100 T8^UAaT@4>UNa8;B3@=SO3
+R11
+32
+R111
+!i10b 1
+R112
+R151
+R152
+!i113 0
+R16
+R17
+Eno_mem_proposed
+Z153 w1625171637
+R23
+R6
+R7
+R8
+Z154 8/home/mcre310/TFM/Comparison_Butterfly/No_Mem_Proposed.vhd
+Z155 F/home/mcre310/TFM/Comparison_Butterfly/No_Mem_Proposed.vhd
+l0
+L6
+VZo5MBzDc8?FA0=T[3kOMz1
+!s100 K]K>FDjee=VPWHod01D>W3
+R11
+32
+R111
+!i10b 1
+R112
+Z156 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/No_Mem_Proposed.vhd|
+Z157 !s107 /home/mcre310/TFM/Comparison_Butterfly/No_Mem_Proposed.vhd|
+!i113 0
+R16
+R17
+Ano_mem_proposed_arch
+R23
+R6
+R7
+DEx4 work 15 no_mem_proposed 0 22 Zo5MBzDc8?FA0=T[3kOMz1
+l38
+L24
+VdVgacoZ7c0ZBL5H4nHZ2N0
+!s100 5=Q>d6S^gT;hSla<@4@?G1
+R11
+32
+R111
+!i10b 1
+R112
+R156
+R157
+!i113 0
+R16
+R17
+Eno_mem_sdf
+Z158 w1625166501
+R23
+R6
+R7
+R8
+Z159 8/home/mcre310/TFM/Comparison_Butterfly/No_Mem_SDF.vhd
+Z160 F/home/mcre310/TFM/Comparison_Butterfly/No_Mem_SDF.vhd
+l0
+L6
+VhQKBlMGeL8l[15D_AgGfD2
+!s100 `GN>0InXoRf_<F5VDFoV_0
+R11
+32
+R111
+!i10b 1
+R112
+Z161 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/No_Mem_SDF.vhd|
+Z162 !s107 /home/mcre310/TFM/Comparison_Butterfly/No_Mem_SDF.vhd|
+!i113 0
+R16
+R17
+Ano_mem_sdf_arch
+R23
+R6
+R7
+DEx4 work 10 no_mem_sdf 0 22 hQKBlMGeL8l[15D_AgGfD2
+l38
+L22
+VOn9_`?G>SN7Y>GkMN2dlH1
+!s100 W]1Y<Xi_ABA_eWWX_BCz^1
+R11
+32
+R111
+!i10b 1
+R112
+R161
+R162
+!i113 0
+R16
+R17
+Eno_mem_sff
+Z163 w1625166477
+R23
+R6
+R7
+R8
+Z164 8/home/mcre310/TFM/Comparison_Butterfly/No_Mem_SFF.vhd
+Z165 F/home/mcre310/TFM/Comparison_Butterfly/No_Mem_SFF.vhd
+l0
+L6
+V]6g9HYG1T]ZgJ`U`a9H6O3
+!s100 PAgTFAK5J;DcoHf[?2el<0
+R11
+32
+Z166 !s110 1625172560
+!i10b 1
+Z167 !s108 1625172560.000000
+Z168 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/No_Mem_SFF.vhd|
+Z169 !s107 /home/mcre310/TFM/Comparison_Butterfly/No_Mem_SFF.vhd|
+!i113 0
+R16
+R17
+Ano_mem_sff_arch
+R23
+R6
+R7
+DEx4 work 10 no_mem_sff 0 22 ]6g9HYG1T]ZgJ`U`a9H6O3
+l32
+L24
+Vl_YV4iVA8nS:EXAn^DA_50
+!s100 =o_EbKA:YOL5A^bRFX]HQ3
+R11
+32
+R166
+!i10b 1
+R167
+R168
+R169
+!i113 0
+R16
+R17
+Etb_butterfly
+Z170 w1624635220
+R23
+R6
+R7
+R8
+Z171 8/home/mcre310/TFM/Comparison_Butterfly/tb_Butterfly.vhd
+Z172 F/home/mcre310/TFM/Comparison_Butterfly/tb_Butterfly.vhd
+l0
+L5
+VDY=T`0hJb3f2]WI4odd_H1
+!s100 YleM3co2Ijc=d=]in1VOV2
+R11
+32
+R111
+!i10b 1
+R112
+Z173 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/tb_Butterfly.vhd|
+Z174 !s107 /home/mcre310/TFM/Comparison_Butterfly/tb_Butterfly.vhd|
+!i113 0
+R16
+R17
+Abehaviour
+R23
+R6
+R7
+DEx4 work 12 tb_butterfly 0 22 DY=T`0hJb3f2]WI4odd_H1
+l60
+L8
+V6N_m=@_QQbQCB1eU;EMdC0
+!s100 >4cfi<5ab:6QMlFHZSD5m2
+R11
+32
+R111
+!i10b 1
+R112
+R173
+R174
+!i113 0
+R16
+R17
+Etb_butterfly_overflow
+Z175 w1623703377
+R23
+R6
+R7
+R8
+Z176 8/home/mcre310/TFM/Comparison_Butterfly/tb_Butterly_overflow.vhd
+Z177 F/home/mcre310/TFM/Comparison_Butterfly/tb_Butterly_overflow.vhd
+l0
+L6
+Vm3bL81HXFdgeAdhF=1;I61
+!s100 ZSiQN>]R[Xo_A6>a1nQEP0
+R11
+32
+R111
+!i10b 1
+R112
+Z178 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/tb_Butterly_overflow.vhd|
+Z179 !s107 /home/mcre310/TFM/Comparison_Butterfly/tb_Butterly_overflow.vhd|
+!i113 0
+R16
+R17
+Abehaviour
+R23
+R6
+R7
+DEx4 work 21 tb_butterfly_overflow 0 22 m3bL81HXFdgeAdhF=1;I61
+l61
+L9
+V5=^UVL1c=J0lR5jb_=oD50
+!s100 4FA1kT5Ei[klX>E:2hObV0
+R11
+32
+R111
+!i10b 1
+R112
+R178
+R179
+!i113 0
+R16
+R17
+Etb_butterfly_registers
+Z180 w1623702498
+R23
+R6
+R7
+R8
+Z181 8/home/mcre310/TFM/Comparison_Butterfly/tb_Butterfly_registers.vhd
+Z182 F/home/mcre310/TFM/Comparison_Butterfly/tb_Butterfly_registers.vhd
+l0
+L6
+V1ZD]URik3ZN38<oLFF;JX0
+!s100 zO3eHLdG_[hSOPZdmJoSd3
+R11
+32
+R111
+!i10b 1
+R112
+Z183 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/tb_Butterfly_registers.vhd|
+Z184 !s107 /home/mcre310/TFM/Comparison_Butterfly/tb_Butterfly_registers.vhd|
+!i113 0
+R16
+R17
+Abehaviour
+R23
+R6
+R7
+DEx4 work 22 tb_butterfly_registers 0 22 1ZD]URik3ZN38<oLFF;JX0
+l49
+L9
+V;;A[QMX7KDDR73=iKnMm;1
+!s100 nnSN@kPL33Z1oOdic7_>e2
+R11
+32
+R111
+!i10b 1
+R112
+R183
+R184
+!i113 0
+R16
+R17
+Etb_consumptiontest_but
+Z185 w1625172554
+R21
+R23
+Z186 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R83
+R6
+R7
+R8
+Z187 8/home/mcre310/TFM/Comparison_Butterfly/tb_butterfly_consumptionTest.vhd
+Z188 F/home/mcre310/TFM/Comparison_Butterfly/tb_butterfly_consumptionTest.vhd
+l0
+L12
+VSif^12VWo__Wahc;=N_h31
+!s100 h55jeW00<AY>AEo>?;:K21
+R11
+32
+R166
+!i10b 1
+R167
+Z189 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/tb_butterfly_consumptionTest.vhd|
+Z190 !s107 /home/mcre310/TFM/Comparison_Butterfly/tb_butterfly_consumptionTest.vhd|
+!i113 0
+R16
+R17
+Abehavior
+R21
+R23
+R186
+R83
+R6
+R7
+DEx4 work 22 tb_consumptiontest_but 0 22 Sif^12VWo__Wahc;=N_h31
+l124
+L15
+VA@gDDkoiI1cVTZ=0L31oB0
+!s100 hQ<M9Qc:^C3i9a^?FYGI43
+R11
+32
+R166
+!i10b 1
+R167
+R189
+R190
+!i113 0
+R16
+R17
+Etb_consumptiontest_but_reg
+Z191 w1625157792
+R21
+R23
+R186
+R83
+R6
+R7
+R8
+Z192 8/home/mcre310/TFM/Comparison_Butterfly/tb_butterfly_consumptionTest_Reg.vhd
+Z193 F/home/mcre310/TFM/Comparison_Butterfly/tb_butterfly_consumptionTest_Reg.vhd
+l0
+L12
+VCciY]4ko=I51I2`^KQWF62
+!s100 QF5^`2zk3ZDaHU?6WeUaR1
+R11
+32
+R166
+!i10b 1
+R167
+Z194 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/tb_butterfly_consumptionTest_Reg.vhd|
+Z195 !s107 /home/mcre310/TFM/Comparison_Butterfly/tb_butterfly_consumptionTest_Reg.vhd|
+!i113 0
+R16
+R17
+Atb_consumptiontest_but_reg_behavior
+R21
+R23
+R186
+R83
+R6
+R7
+DEx4 work 26 tb_consumptiontest_but_reg 0 22 CciY]4ko=I51I2`^KQWF62
+l91
+L15
+Vdm>ciN=3=fiD4HR43XS493
+!s100 A=MczQ465Ee54KA_ISiig1
+R11
+32
+R166
+!i10b 1
+R167
+R194
+R195
+!i113 0
+R16
+R17
+Etb_fft_1024_2021_texto
+Z196 w1624462762
+R21
+R23
+R186
+R83
+R6
+R7
+R8
+R187
+R188
+l0
+L12
+VeYGMcP@UbQ6N[V>`aSZEB3
+!s100 VcO6jDffSaKWJoaPjbRcV3
+R11
+32
+Z197 !s110 1624462788
+!i10b 1
+Z198 !s108 1624462787.000000
+R189
+R190
+!i113 0
+R16
+R17
+Abehavior
+R21
+R23
+R186
+R83
+R6
+R7
+DEx4 work 22 tb_fft_1024_2021_texto 0 22 eYGMcP@UbQ6N[V>`aSZEB3
+l95
+L15
+V4WoJXRffSKHU<G=nPNQi:1
+!s100 K_Q[R1^92SJ24YcB_@Feh3
+R11
+32
+R197
+!i10b 1
+R198
+R189
+R190
+!i113 0
+R16
+R17
+Etb_l_memory
+Z199 w1625006698
+R23
+R6
+R7
+R8
+Z200 8/home/mcre310/TFM/Comparison_Butterfly/tb_Memory_Proposed_64.vhd
+Z201 F/home/mcre310/TFM/Comparison_Butterfly/tb_Memory_Proposed_64.vhd
+l0
+L5
+VoaPam2lX5A;iHLKGW@`313
+!s100 fW5[1OBJFDbC;=DK:]2d43
+R11
+32
+R111
+!i10b 1
+R112
+Z202 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/tb_Memory_Proposed_64.vhd|
+Z203 !s107 /home/mcre310/TFM/Comparison_Butterfly/tb_Memory_Proposed_64.vhd|
+!i113 0
+R16
+R17
+Atb_l_memory_behaviour
+R23
+R6
+R7
+Z204 DEx4 work 11 tb_l_memory 0 22 oaPam2lX5A;iHLKGW@`313
+l58
+L8
+V_kn?hP9mXDF22]1ag>l;B3
+!s100 2mI>1cD?BihP]nQdE^<h;0
+R11
+32
+R111
+!i10b 1
+R112
+R202
+R203
+!i113 0
+R16
+R17
+Al_memory_proposed_behaviour
+R23
+R6
+R7
+R204
+l49
+L8
+VH=Ei>oELS5>c`j_@eB:h:1
+!s100 65fh9TM=[@^>CJzijB=Ua3
+R11
+32
+!s110 1624984391
+!i10b 1
+!s108 1624984391.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/tb_L_Memory.vhd|
+!s107 /home/mcre310/TFM/Comparison_Butterfly/tb_L_Memory.vhd|
+!i113 0
+R16
+R17
+w1624984429
+F/home/mcre310/TFM/Comparison_Butterfly/tb_L_Memory.vhd
+8/home/mcre310/TFM/Comparison_Butterfly/tb_L_Memory.vhd
+Etb_x_y_butterfly_memories_64_consumpt
+Z205 w1625072970
+R21
+R23
+R186
+R83
+R6
+R7
+R8
+Z206 8/home/mcre310/TFM/Comparison_Butterfly/tb_X_Y_Mems.vhd
+Z207 F/home/mcre310/TFM/Comparison_Butterfly/tb_X_Y_Mems.vhd
+l0
+L12
+VjJc>FD^PQYOiBSl0W_5Vd2
+!s100 e1R;NiLh>27?=0PhfY>AY2
+R11
+32
+R111
+!i10b 1
+R112
+Z208 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/tb_X_Y_Mems.vhd|
+Z209 !s107 /home/mcre310/TFM/Comparison_Butterfly/tb_X_Y_Mems.vhd|
+!i113 0
+R16
+R17
+Atb_x_y_butterfly_memories_64_consumpt_behavior
+R21
+R23
+R186
+R83
+R6
+R7
+DEx4 work 37 tb_x_y_butterfly_memories_64_consumpt 0 22 jJc>FD^PQYOiBSl0W_5Vd2
+l144
+L15
+V]hCVn=e@B1<b>i?>[PTcf1
+!s100 A>?KCFSciC8Ua5z:oSn3R0
+R11
+32
+R111
+!i10b 1
+R112
+R208
+R209
+!i113 0
+R16
+R17
+vTS5N40LPHSA128X32M4S
+R111
+!i10b 1
+!s100 ObJYIHO[DB=1TX96ATZP[1
+I6K3FGmYJ]PfFk1ncCfEkn3
+R73
+R8
+w1624296041
+8/home/mcre310/TFM/Comparison_Butterfly/Memories/ts5n40lphsa128x32m4s_200a_tt1p1v25c.v
+F/home/mcre310/TFM/Comparison_Butterfly/Memories/ts5n40lphsa128x32m4s_200a_tt1p1v25c.v
+Z210 L0 68
+R71
+r1
+!s85 0
+31
+R112
+!s107 /home/mcre310/TFM/Comparison_Butterfly/Memories/ts5n40lphsa128x32m4s_200a_tt1p1v25c.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/Memories/ts5n40lphsa128x32m4s_200a_tt1p1v25c.v|
+!i113 0
+Z211 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@t@s5@n40@l@p@h@s@a128@x32@m4@s
+vTS5N40LPHSA256X32M4S
+R111
+!i10b 1
+!s100 5A3I32KzPMI4<POW3]BeD2
+I8hIk>CcQ`8JedG6405]kd3
+R73
+R8
+w1624296038
+8/home/mcre310/TFM/Comparison_Butterfly/Memories/ts5n40lphsa256x32m4s_200a_tt1p1v25c.v
+F/home/mcre310/TFM/Comparison_Butterfly/Memories/ts5n40lphsa256x32m4s_200a_tt1p1v25c.v
+R210
+R71
+r1
+!s85 0
+31
+R112
+!s107 /home/mcre310/TFM/Comparison_Butterfly/Memories/ts5n40lphsa256x32m4s_200a_tt1p1v25c.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/Memories/ts5n40lphsa256x32m4s_200a_tt1p1v25c.v|
+!i113 0
+R211
+R2
+n@t@s5@n40@l@p@h@s@a256@x32@m4@s
+vTS5N40LPHSA32X32M2S
+R111
+!i10b 1
+!s100 _E0cd?EgLAO2RHc?_zSBD3
+IzGQTjC:3XgB_T?U7a8]Z[2
+R73
+R8
+w1624296046
+8/home/mcre310/TFM/Comparison_Butterfly/Memories/ts5n40lphsa32x32m2s_200a_tt1p1v25c.v
+F/home/mcre310/TFM/Comparison_Butterfly/Memories/ts5n40lphsa32x32m2s_200a_tt1p1v25c.v
+R210
+R71
+r1
+!s85 0
+31
+R112
+!s107 /home/mcre310/TFM/Comparison_Butterfly/Memories/ts5n40lphsa32x32m2s_200a_tt1p1v25c.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/Memories/ts5n40lphsa32x32m2s_200a_tt1p1v25c.v|
+!i113 0
+R211
+R2
+n@t@s5@n40@l@p@h@s@a32@x32@m2@s
+vTS5N40LPHSA512X32M4S
+R111
+!i10b 1
+!s100 kTSkPI@`UeHSV^O0A<7Wl1
+I]c`0?]fM>NMMGPL:_[TBo0
+R73
+R8
+w1624296035
+8/home/mcre310/TFM/Comparison_Butterfly/Memories/ts5n40lphsa512x32m4s_200a_tt1p1v25c.v
+F/home/mcre310/TFM/Comparison_Butterfly/Memories/ts5n40lphsa512x32m4s_200a_tt1p1v25c.v
+R210
+R71
+r1
+!s85 0
+31
+R112
+!s107 /home/mcre310/TFM/Comparison_Butterfly/Memories/ts5n40lphsa512x32m4s_200a_tt1p1v25c.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/Memories/ts5n40lphsa512x32m4s_200a_tt1p1v25c.v|
+!i113 0
+R211
+R2
+n@t@s5@n40@l@p@h@s@a512@x32@m4@s
+vTS5N40LPHSA64X32M4S
+R111
+!i10b 1
+!s100 `YclOJOQL3Wb14aN]n2Vk3
+II`S?jGicD]<U6ZEfY;;nG0
+R73
+R8
+w1624296044
+8/home/mcre310/TFM/Comparison_Butterfly/Memories/ts5n40lphsa64x32m4s_200a_tt1p1v25c.v
+F/home/mcre310/TFM/Comparison_Butterfly/Memories/ts5n40lphsa64x32m4s_200a_tt1p1v25c.v
+R210
+R71
+r1
+!s85 0
+31
+R112
+!s107 /home/mcre310/TFM/Comparison_Butterfly/Memories/ts5n40lphsa64x32m4s_200a_tt1p1v25c.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/Memories/ts5n40lphsa64x32m4s_200a_tt1p1v25c.v|
+!i113 0
+R211
+R2
+n@t@s5@n40@l@p@h@s@a64@x32@m4@s
+Ex_y_butterfly
+Z212 w1624557664
+R23
+R6
+R7
+R8
+Z213 8/home/mcre310/TFM/Comparison_Butterfly/X_and_Y_Butterfly.vhd
+Z214 F/home/mcre310/TFM/Comparison_Butterfly/X_and_Y_Butterfly.vhd
+l0
+L6
+Vf8b<YJP4iJ@>hLD3:j1c31
+!s100 o^@YbK?L50GomoEU5e`Hl2
+R11
+32
+R111
+!i10b 1
+R112
+Z215 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/X_and_Y_Butterfly.vhd|
+Z216 !s107 /home/mcre310/TFM/Comparison_Butterfly/X_and_Y_Butterfly.vhd|
+!i113 0
+R16
+R17
+Abehaviour
+R23
+R6
+R7
+DEx4 work 13 x_y_butterfly 0 22 f8b<YJP4iJ@>hLD3:j1c31
+l39
+L24
+VU=Rf`XEVC8Dbe5?DL`FlN3
+!s100 2[B3a]XeC;THJ3MgK6NJ60
+R11
+32
+R111
+!i10b 1
+R112
+R215
+R216
+!i113 0
+R16
+R17
+Ex_y_butterfly_memories_64
+Z217 w1625052230
+R23
+R6
+R7
+R8
+Z218 8/home/mcre310/TFM/Comparison_Butterfly/X_and_Y_SDF_Memories_64.vhd
+Z219 F/home/mcre310/TFM/Comparison_Butterfly/X_and_Y_SDF_Memories_64.vhd
+l0
+L6
+V;fdOzIHS_k3EPLd9eY3YD3
+!s100 0^OaV2X`C35:gSO6H2Pmo3
+R11
+32
+Z220 !s110 1625052249
+!i10b 1
+Z221 !s108 1625052249.000000
+Z222 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/X_and_Y_SDF_Memories_64.vhd|
+Z223 !s107 /home/mcre310/TFM/Comparison_Butterfly/X_and_Y_SDF_Memories_64.vhd|
+!i113 0
+R16
+R17
+Ax_y_butterfly_memories_64_behaviour
+R23
+R6
+R7
+DEx4 work 25 x_y_butterfly_memories_64 0 22 ;fdOzIHS_k3EPLd9eY3YD3
+l58
+L21
+V3eU0T><Ae:GeR91j=On`W0
+!s100 0I_OLa3Q2>RmLQh[TH=6L1
+R11
+32
+R220
+!i10b 1
+R221
+R222
+R223
+!i113 0
+R16
+R17
+Ex_y_butterfly_memories_proposed_64
+Z224 w1625072943
+R23
+R6
+R7
+R8
+Z225 8/home/mcre310/TFM/Comparison_Butterfly/X_and_Y_Proposed_Memories_64.vhd
+Z226 F/home/mcre310/TFM/Comparison_Butterfly/X_and_Y_Proposed_Memories_64.vhd
+l0
+L6
+V

@@ -1,0 +1,1380 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/mcre310/TFM/Comparison_Butterfly
+T_opt
+!s110 1621110640
+Vg[9mWNC82XXD@GBCE9Td93
+04 13 9 work tb_rotator_w4 behaviour 1
+=1-525400887201-60a02f70-3428b-42cc
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OE;O;10.6c_1;65
+R0
+T_opt1
+!s110 1623672525
+VBIH<ETJm863]hHL6N:;AV1
+04 14 9 work tb_rotator_w32 behaviour 1
+=1-525400887201-60c746cd-3e894-1c66
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1623855526
+VBzJY]^PegaIHNOA1^Vii_1
+04 25 9 work tb_rotator_directmult_w32 behaviour 1
+=1-525400887201-60ca11a6-9a292-7915
+R1
+R2
+n@_opt2
+R3
+R0
+Eadder_carry
+Z4 w1618070803
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z7 d/home/mcre310/TFM/Comparison_Rotators
+Z8 8/home/mcre310/TFM/Comparison_Rotators/Adder_Carry.vhd
+Z9 F/home/mcre310/TFM/Comparison_Rotators/Adder_Carry.vhd
+l0
+L4
+V;8;94YFESY2MgfMUX6QIX2
+!s100 PiiiadaA41E8K9=4KCi@S3
+Z10 OE;C;10.6c_1;65
+32
+Z11 !s110 1625301927
+!i10b 1
+Z12 !s108 1625301927.000000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/Adder_Carry.vhd|
+Z14 !s107 /home/mcre310/TFM/Comparison_Rotators/Adder_Carry.vhd|
+!i113 0
+Z15 o-work work -2002 -explicit
+Z16 tExplicit 1 CvgOpt 0
+Artl
+R5
+R6
+DEx4 work 11 adder_carry 0 22 ;8;94YFESY2MgfMUX6QIX2
+l32
+L17
+V;Q9CZ>>f;2UhkmRI6>h_33
+!s100 zT?P7I>THkamV5NRII7Ei0
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 0
+R15
+R16
+Pcomponents
+Z17 DPx4 ieee 9 math_real 0 22 Sk6CSihbPL<f[^Shm]=KX0
+Z18 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R5
+R6
+Z19 w1618055267
+R7
+Z20 8/home/mcre310/TFM/Comparison_Rotators/Components.vhd
+Z21 F/home/mcre310/TFM/Comparison_Rotators/Components.vhd
+l0
+L8
+VLRPZ[1W=f000h>kKQ04z=2
+!s100 =A:<7l?;Lzd>ZKd[_eOQR2
+R10
+32
+b1
+R11
+!i10b 1
+R12
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/Components.vhd|
+Z23 !s107 /home/mcre310/TFM/Comparison_Rotators/Components.vhd|
+!i113 0
+R15
+R16
+Bbody
+Z24 DPx4 work 10 components 0 22 LRPZ[1W=f000h>kKQ04z=2
+R17
+R18
+R5
+R6
+l0
+L32
+VnWZl2G?1dkOT8D_nLlZT50
+!s100 SzF88JOa;ma9k44>i?hYD3
+R10
+32
+R11
+!i10b 1
+R12
+R22
+R23
+!i113 0
+R15
+R16
+Econtrol_rotator_w32
+Z25 w1623370205
+R17
+R24
+R18
+R5
+R6
+R7
+Z26 8/home/mcre310/TFM/Comparison_Rotators/Control_RotatorW32.vhd
+Z27 F/home/mcre310/TFM/Comparison_Rotators/Control_RotatorW32.vhd
+l0
+L8
+VjEXbkE4<PgS`1T:c1WMhe3
+!s100 co4=0o4>B;_P5?F^z9>Pb0
+R10
+32
+Z28 !s110 1625301928
+!i10b 1
+Z29 !s108 1625301928.000000
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/Control_RotatorW32.vhd|
+Z31 !s107 /home/mcre310/TFM/Comparison_Rotators/Control_RotatorW32.vhd|
+!i113 0
+R15
+R16
+Acontrol_rotator_w32_arch
+R17
+R24
+R18
+R5
+R6
+DEx4 work 19 control_rotator_w32 0 22 jEXbkE4<PgS`1T:c1WMhe3
+l21
+L19
+VI[4@OWS_SDAgm<c7CT:<00
+!s100 _QKi]z_6a^m73dOh;0NE<2
+R10
+32
+R28
+!i10b 1
+R29
+R30
+R31
+!i113 0
+R15
+R16
+Ecounter
+Z32 w1618100064
+Z33 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z34 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R5
+R6
+R7
+Z35 8/home/mcre310/TFM/Comparison_Rotators/Counter.vhd
+Z36 F/home/mcre310/TFM/Comparison_Rotators/Counter.vhd
+l0
+L7
+VhdE9cYb:GBcMYQG<Oolf32
+!s100 cfY>f6@nE4o3Sz9Vd57fO2
+R10
+32
+R11
+!i10b 1
+R12
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/Counter.vhd|
+Z38 !s107 /home/mcre310/TFM/Comparison_Rotators/Counter.vhd|
+!i113 0
+R15
+R16
+Abehavioral
+R33
+R34
+R5
+R6
+DEx4 work 7 counter 0 22 hdE9cYb:GBcMYQG<Oolf32
+l21
+L19
+V[3`AnEYEnml7TmEflJ:oD2
+!s100 YkUdDfA0KcTda6^]]Aagb1
+R10
+32
+R11
+!i10b 1
+R12
+R37
+R38
+!i113 0
+R15
+R16
+Edelay
+Z39 w1591852306
+R17
+R18
+R5
+R6
+R7
+Z40 8/home/mcre310/TFM/Comparison_Rotators/Delay.vhd
+Z41 F/home/mcre310/TFM/Comparison_Rotators/Delay.vhd
+l0
+L9
+VYB=eUFLkin90giXo8RaOz3
+!s100 ^fR_B_oQP?bEYLMj^k@760
+R10
+32
+R11
+!i10b 1
+R12
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/Delay.vhd|
+Z43 !s107 /home/mcre310/TFM/Comparison_Rotators/Delay.vhd|
+!i113 0
+R15
+R16
+Aarch
+R17
+R18
+R5
+R6
+DEx4 work 5 delay 0 22 YB=eUFLkin90giXo8RaOz3
+l47
+L20
+Vf8[@n;G4UKlND?>lTb3f00
+!s100 Nm`1@If;cPg;OIzAUDab[0
+R10
+32
+R11
+!i10b 1
+R12
+R42
+R43
+!i113 0
+R15
+R16
+Edelay1bit
+Z44 w1567389820
+R18
+R5
+R6
+R7
+Z45 8/home/mcre310/TFM/Comparison_Rotators/Delay1bit.vhd
+Z46 F/home/mcre310/TFM/Comparison_Rotators/Delay1bit.vhd
+l0
+L8
+VR3mZGV=2>JB2Ij]^zVibi2
+!s100 `ME8m=;9DnJV];bd8b]]a2
+R10
+32
+R11
+!i10b 1
+R12
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/Delay1bit.vhd|
+Z48 !s107 /home/mcre310/TFM/Comparison_Rotators/Delay1bit.vhd|
+!i113 0
+R15
+R16
+Aarch
+R18
+R5
+R6
+DEx4 work 9 delay1bit 0 22 R3mZGV=2>JB2Ij]^zVibi2
+l21
+L17
+V8`n?YZ1TM03Amoo8`1YK43
+!s100 @BDKi[deGWCZFRjM<773S3
+R10
+32
+R11
+!i10b 1
+R12
+R47
+R48
+!i113 0
+R15
+R16
+Edelaymem
+Z49 w1618081368
+R24
+R17
+R18
+R5
+R6
+R7
+Z50 8/home/mcre310/TFM/Comparison_Rotators/DelayMem.vhd
+Z51 F/home/mcre310/TFM/Comparison_Rotators/DelayMem.vhd
+l0
+L12
+VeS24CER8`ha=^SNW]]U5b3
+!s100 nMa5KEg^9J3dAei20_I=R3
+R10
+32
+R11
+!i10b 1
+R12
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/DelayMem.vhd|
+Z53 !s107 /home/mcre310/TFM/Comparison_Rotators/DelayMem.vhd|
+!i113 0
+R15
+R16
+Aarch
+R24
+R17
+R18
+R5
+R6
+DEx4 work 8 delaymem 0 22 eS24CER8`ha=^SNW]]U5b3
+l32
+L26
+VD7HK235mFMogLZUU=FSJj2
+!s100 E[?zA>JLRdba3l5k7K>@60
+R10
+32
+R11
+!i10b 1
+R12
+R52
+R53
+!i113 0
+R15
+R16
+Edelayreg
+Z54 w1618602610
+R17
+R24
+R18
+R5
+R6
+R7
+Z55 8/home/mcre310/TFM/Comparison_Rotators/DelayReg.vhd
+Z56 F/home/mcre310/TFM/Comparison_Rotators/DelayReg.vhd
+l0
+L10
+VNTo3IoX@oJVgBF=b6nCO]3
+!s100 0Q]GXK3g7V9R^eHF2`edd2
+R10
+32
+R11
+!i10b 1
+R12
+Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/DelayReg.vhd|
+Z58 !s107 /home/mcre310/TFM/Comparison_Rotators/DelayReg.vhd|
+!i113 0
+R15
+R16
+Aarch
+R17
+R24
+R18
+R5
+R6
+DEx4 work 8 delayreg 0 22 NTo3IoX@oJVgBF=b6nCO]3
+l30
+L20
+VFnc]0OTGji^on744KeIcB0
+!s100 >KH@Y@BCbIl[6A?>d7nLZ0
+R10
+32
+R11
+!i10b 1
+R12
+R57
+R58
+!i113 0
+R15
+R16
+Eentryinterface
+Z59 w1618080249
+R17
+R24
+R18
+R5
+R6
+R7
+Z60 8/home/mcre310/TFM/Comparison_Rotators/EntryInterface.vhd
+Z61 F/home/mcre310/TFM/Comparison_Rotators/EntryInterface.vhd
+l0
+L9
+VLQ<E31]B2;Jz6?nnW0OC11
+!s100 BFUm3CBeJd:efQ7=R=?LT1
+R10
+32
+R11
+!i10b 1
+R12
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/EntryInterface.vhd|
+Z63 !s107 /home/mcre310/TFM/Comparison_Rotators/EntryInterface.vhd|
+!i113 0
+R15
+R16
+Aarch
+R17
+R24
+R18
+R5
+R6
+DEx4 work 14 entryinterface 0 22 LQ<E31]B2;Jz6?nnW0OC11
+l22
+L18
+V;3XYUXR436gDKIPRKFa6O1
+!s100 W<H93UbN54NKeg8NKSDOb3
+R10
+32
+R11
+!i10b 1
+R12
+R62
+R63
+!i113 0
+R15
+R16
+Enopip_rotator_w4
+Z64 w1621109880
+R17
+R24
+R18
+R5
+R6
+R7
+Z65 8/home/mcre310/TFM/Comparison_Rotators/NoPIP_Rotator_W4.vhd
+Z66 F/home/mcre310/TFM/Comparison_Rotators/NoPIP_Rotator_W4.vhd
+l0
+L8
+Vc<<8TlG6`GK^cYcF@NO1c2
+!s100 CEGOOkRZme:o3lRSFL9]l2
+R10
+32
+R11
+!i10b 1
+R12
+Z67 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/NoPIP_Rotator_W4.vhd|
+Z68 !s107 /home/mcre310/TFM/Comparison_Rotators/NoPIP_Rotator_W4.vhd|
+!i113 0
+R15
+R16
+Anopip_rotator_w4_arch
+R17
+R24
+R18
+R5
+R6
+DEx4 work 16 nopip_rotator_w4 0 22 c<<8TlG6`GK^cYcF@NO1c2
+l26
+L20
+VIGB9V3F8UlgJ`mW_UXSZ?3
+!s100 d9000:M56U>D0zBeP0?ed0
+R10
+32
+R11
+!i10b 1
+R12
+R67
+R68
+!i113 0
+R15
+R16
+Aarch
+R17
+R24
+R18
+R5
+R6
+DEx4 work 16 nopip_rotator_w4 0 22 oBz`d1=Uc@U=dbcNTO1A13
+l37
+L20
+V4[4K2Xc[38g=I:Ebi^lzX1
+!s100 :W[G_QM?3;<0lL7VW<QCm1
+R10
+32
+!s110 1621004344
+!i10b 1
+!s108 1621004344.000000
+R67
+R68
+!i113 0
+R15
+R16
+w1621004333
+Erom_32
+Z69 w1625267867
+R17
+R18
+R5
+R6
+R7
+Z70 8/home/mcre310/TFM/Comparison_Rotators/ROM_32.vhd
+Z71 F/home/mcre310/TFM/Comparison_Rotators/ROM_32.vhd
+l0
+L9
+VH6BQJ;Y>Y`1;mWQ6m9>@B2
+!s100 :ioSI6lIA]6eOZO6fRkk@1
+R10
+32
+R11
+!i10b 1
+R12
+Z72 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/ROM_32.vhd|
+Z73 !s107 /home/mcre310/TFM/Comparison_Rotators/ROM_32.vhd|
+!i113 0
+R15
+R16
+Arom_32_arch
+R17
+R18
+R5
+R6
+DEx4 work 6 rom_32 0 22 H6BQJ;Y>Y`1;mWQ6m9>@B2
+l39
+L20
+Vn;Ci?cEOoIjmLi1U@ZLJE1
+!s100 1Tbj2mAeLJ_^GEP9k7^aS0
+R10
+32
+R11
+!i10b 1
+R12
+R72
+R73
+!i113 0
+R15
+R16
+Erom_8
+Z74 w1625267863
+R17
+R18
+R5
+R6
+R7
+Z75 8/home/mcre310/TFM/Comparison_Rotators/ROM_8.vhd
+Z76 F/home/mcre310/TFM/Comparison_Rotators/ROM_8.vhd
+l0
+L8
+V:iJ?>Nk9LgX52>dPI:JjM0
+!s100 l0E:n]>fdU0L^A=RK<WMW0
+R10
+32
+R11
+!i10b 1
+R12
+Z77 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/ROM_8.vhd|
+Z78 !s107 /home/mcre310/TFM/Comparison_Rotators/ROM_8.vhd|
+!i113 0
+R15
+R16
+Arom_8_arch
+R17
+R18
+R5
+R6
+DEx4 work 5 rom_8 0 22 :iJ?>Nk9LgX52>dPI:JjM0
+l28
+L19
+VgbP]dAnShhPOTNh6:`hKV1
+!s100 MO3_2>UMZ5^SFUYDm<7[Z2
+R10
+32
+R11
+!i10b 1
+R12
+R77
+R78
+!i113 0
+R15
+R16
+Erotator_directmult_w32
+Z79 w1625272668
+R18
+R5
+R6
+R7
+Z80 8/home/mcre310/TFM/Comparison_Rotators/Rotator_DirectMult_W32.vhd
+Z81 F/home/mcre310/TFM/Comparison_Rotators/Rotator_DirectMult_W32.vhd
+l0
+L5
+V=UHAE[nkGCm=W<JJFnIX;3
+!s100 ddW[OP?Ze4mYe;`7l?8_f2
+R10
+32
+R11
+!i10b 1
+R12
+Z82 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/Rotator_DirectMult_W32.vhd|
+Z83 !s107 /home/mcre310/TFM/Comparison_Rotators/Rotator_DirectMult_W32.vhd|
+!i113 0
+R15
+R16
+Arotator_directmult_w32_arch
+R18
+R5
+R6
+DEx4 work 22 rotator_directmult_w32 0 22 =UHAE[nkGCm=W<JJFnIX;3
+l36
+L19
+VdfJ3mVUQQO3TNXanin=Q@3
+!s100 AQKF4CeM:[Zl4=6>>X9CR2
+R10
+32
+R11
+!i10b 1
+R12
+R82
+R83
+!i113 0
+R15
+R16
+Erotator_directmult_w8
+Z84 w1625267847
+R18
+R5
+R6
+R7
+Z85 8/home/mcre310/TFM/Comparison_Rotators/Rotator_directMult_W8.vhd
+Z86 F/home/mcre310/TFM/Comparison_Rotators/Rotator_directMult_W8.vhd
+l0
+L5
+VCJ?<mlljLm55Kj@ni74@71
+!s100 2_XD:PVljcGFN46JRN>0>0
+R10
+32
+R28
+!i10b 1
+R12
+Z87 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/Rotator_directMult_W8.vhd|
+Z88 !s107 /home/mcre310/TFM/Comparison_Rotators/Rotator_directMult_W8.vhd|
+!i113 0
+R15
+R16
+Arotator_directmult_w8_arch
+R18
+R5
+R6
+DEx4 work 21 rotator_directmult_w8 0 22 CJ?<mlljLm55Kj@ni74@71
+l35
+L18
+VjQfIUAX?h_bgoo[WzG2<L0
+!s100 h4<dJZDFKQTLZ9632TFTL1
+R10
+32
+R28
+!i10b 1
+R12
+R87
+R88
+!i113 0
+R15
+R16
+Erotator_w32
+Z89 w1625271692
+R18
+R5
+R6
+R7
+Z90 8/home/mcre310/TFM/Comparison_Rotators/Rotator_W32.vhd
+Z91 F/home/mcre310/TFM/Comparison_Rotators/Rotator_W32.vhd
+l0
+L5
+V0`:nhVR[>0QdAW:Jz6?Gg0
+!s100 LPE8X>NgLeV<Om1YKa?L70
+R10
+32
+R11
+!i10b 1
+R12
+Z92 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/Rotator_W32.vhd|
+Z93 !s107 /home/mcre310/TFM/Comparison_Rotators/Rotator_W32.vhd|
+!i113 0
+R15
+R16
+Arotator_w32_norm_arch
+R18
+R5
+R6
+DEx4 work 11 rotator_w32 0 22 0`:nhVR[>0QdAW:Jz6?Gg0
+l61
+L19
+VWFJ1?dM136gE_fT4jBASi2
+!s100 gBnkQh[C41Bfd4aNK7?`;2
+R10
+32
+R11
+!i10b 1
+R12
+R92
+R93
+!i113 0
+R15
+R16
+Aarch
+R17
+R24
+R18
+R5
+R6
+DEx4 work 11 rotator_w32 0 22 ;7Ee6gD8G0aG8_6;TLQmg0
+l64
+L22
+VfQmGh5NWJXR9Pf]1>6lNl1
+!s100 Y66R2=N1hWkYX7QP_D9OW1
+R10
+32
+Z94 !s110 1623672958
+!i10b 1
+!s108 1623672958.000000
+R92
+R93
+!i113 0
+R15
+R16
+w1623672342
+Erotator_w32_directmult
+Z95 w1619089618
+R17
+R24
+R18
+R5
+R6
+R7
+Z96 8/home/mcre310/TFM/Comparison_Rotators/W32_DirectMultiply.vhd
+Z97 F/home/mcre310/TFM/Comparison_Rotators/W32_DirectMultiply.vhd
+l0
+L11
+V==BfeoYHjAkdTzS=NWfN92
+!s100 aP8JPIidUiBUdCjXjJTWK0
+R10
+32
+Z98 !s110 1620773115
+!i10b 1
+Z99 !s108 1620773115.000000
+Z100 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/W32_DirectMultiply.vhd|
+Z101 !s107 /home/mcre310/TFM/Comparison_Rotators/W32_DirectMultiply.vhd|
+!i113 0
+R15
+R16
+Arotator_w32_directmult_arch
+R17
+R24
+R18
+R5
+R6
+DEx4 work 22 rotator_w32_directmult 0 22 ==BfeoYHjAkdTzS=NWfN92
+l66
+L25
+VHPoCQbGEPdH5m4iPZV^R82
+!s100 P:nC:M;QKS7Ug[OH^lSaG3
+R10
+32
+R98
+!i10b 1
+R99
+R100
+R101
+!i113 0
+R15
+R16
+Erotator_w32_unoptimized
+Z102 w1618867081
+R17
+R24
+R18
+R5
+R6
+R7
+Z103 8/home/mcre310/TFM/Comparison_Rotators/Rotator_W32_unoptimized.vhd
+Z104 F/home/mcre310/TFM/Comparison_Rotators/Rotator_W32_unoptimized.vhd
+l0
+L11
+Vi?S`az_5i1heS<Fc`^Ce=2
+!s100 d0VOQ<74oMVO`giHR26h?3
+R10
+32
+R11
+!i10b 1
+R12
+Z105 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/Rotator_W32_unoptimized.vhd|
+Z106 !s107 /home/mcre310/TFM/Comparison_Rotators/Rotator_W32_unoptimized.vhd|
+!i113 0
+R15
+R16
+Aarch
+R17
+R24
+R18
+R5
+R6
+DEx4 work 23 rotator_w32_unoptimized 0 22 i?S`az_5i1heS<Fc`^Ce=2
+l72
+L25
+V9hM7]ME0@I2bYUWDfC[Ia1
+!s100 i>`3R=^DeNcKZ<5K4Rf=J2
+R10
+32
+R11
+!i10b 1
+R12
+R105
+R106
+!i113 0
+R15
+R16
+Erotator_w4
+Z107 w1625270950
+R18
+R5
+R6
+R7
+Z108 8/home/mcre310/TFM/Comparison_Rotators/Rotator_W4.vhd
+Z109 F/home/mcre310/TFM/Comparison_Rotators/Rotator_W4.vhd
+l0
+L5
+V1dd]YW9Bi2OJ4lWaD?BN>2
+!s100 2eO:VBCTkJd_b3W?J[PMm2
+R10
+32
+R11
+!i10b 1
+R12
+Z110 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/Rotator_W4.vhd|
+Z111 !s107 /home/mcre310/TFM/Comparison_Rotators/Rotator_W4.vhd|
+!i113 0
+R15
+R16
+Arotator_w4_norm_arch
+R18
+R5
+R6
+DEx4 work 10 rotator_w4 0 22 1dd]YW9Bi2OJ4lWaD?BN>2
+l37
+L18
+VQdV_UJ_=2FEE:H=29XA;Y2
+!s100 bVlHQ;<1YzBil1fh5Fc;Y2
+R10
+32
+R11
+!i10b 1
+R12
+R110
+R111
+!i113 0
+R15
+R16
+Aarch
+R17
+R24
+R18
+R5
+R6
+DEx4 work 10 rotator_w4 0 22 JTDIPVncf2GLZ>H`RhbeH1
+l40
+L21
+V]<cW80Z2WW@JYUfNI7H4:3
+!s100 gKUS8e?ECJlblQH;f:_052
+R10
+32
+R94
+!i10b 1
+Z112 !s108 1623672957.000000
+R110
+R111
+!i113 0
+R15
+R16
+w1619024795
+Erotator_w8
+Z113 w1625270964
+R18
+R5
+R6
+R7
+Z114 8/home/mcre310/TFM/Comparison_Rotators/Rotation_W8.vhd
+Z115 F/home/mcre310/TFM/Comparison_Rotators/Rotation_W8.vhd
+l0
+L6
+Vnl8c7P;5=iB<49JBVz7F10
+!s100 f>1POoWbgJ0dSAC0<HD[j0
+R10
+32
+R11
+!i10b 1
+R12
+Z116 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/Rotation_W8.vhd|
+Z117 !s107 /home/mcre310/TFM/Comparison_Rotators/Rotation_W8.vhd|
+!i113 0
+R15
+R16
+Arotator_w8_norm_arch
+R18
+R5
+R6
+DEx4 work 10 rotator_w8 0 22 nl8c7P;5=iB<49JBVz7F10
+l60
+L20
+VIX_z=>T@]RVIDG]nI0>mm2
+!s100 bQPUHI1NNGIUNAMzAa>Po0
+R10
+32
+R11
+!i10b 1
+R12
+R116
+R117
+!i113 0
+R15
+R16
+Aarch
+R17
+R24
+R18
+R5
+R6
+DEx4 work 10 rotator_w8 0 22 O:;Lk9@i:lf<2WSoP5moP0
+l63
+L23
+VWgG_ZBj5@AISPdkcQ>=Ug3
+!s100 ?aXVC7D=HV<[_ODm[V74S3
+R10
+32
+!s110 1623672957
+!i10b 1
+R112
+R116
+R117
+!i113 0
+R15
+R16
+w1621091343
+Esimp_rotator_w4
+Z118 w1625267786
+R18
+R5
+R6
+R7
+Z119 8/home/mcre310/TFM/Comparison_Rotators/Simp_W4.vhd
+Z120 F/home/mcre310/TFM/Comparison_Rotators/Simp_W4.vhd
+l0
+L5
+VA]dlQ4eN?EWUPb`[h;Oe?3
+!s100 _6b;Dh;XTNP4YA_VlNDIf2
+R10
+32
+R28
+!i10b 1
+R29
+Z121 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/Simp_W4.vhd|
+Z122 !s107 /home/mcre310/TFM/Comparison_Rotators/Simp_W4.vhd|
+!i113 0
+R15
+R16
+Asimp_rotator_w4_arch
+R18
+R5
+R6
+DEx4 work 15 simp_rotator_w4 0 22 A]dlQ4eN?EWUPb`[h;Oe?3
+l20
+L17
+V@I3ne3Q9jPPaNUXQ`zjkf2
+!s100 I>UFVK4`;RSVVVCGaj7lW1
+R10
+32
+R28
+!i10b 1
+R29
+R121
+R122
+!i113 0
+R15
+R16
+Esimp_w8
+Z123 w1625267790
+R18
+R5
+R6
+R7
+Z124 8/home/mcre310/TFM/Comparison_Rotators/Simp_W8.vhd
+Z125 F/home/mcre310/TFM/Comparison_Rotators/Simp_W8.vhd
+l0
+L7
+VnXZ[C@j1ZUW8UmVQJ4]JJ1
+!s100 PCQNMXaMdXEo^E@mWU?^J0
+R10
+32
+R28
+!i10b 1
+R29
+Z126 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/Simp_W8.vhd|
+Z127 !s107 /home/mcre310/TFM/Comparison_Rotators/Simp_W8.vhd|
+!i113 0
+R15
+R16
+Asimp_w8_arch
+R18
+R5
+R6
+DEx4 work 7 simp_w8 0 22 nXZ[C@j1ZUW8UmVQJ4]JJ1
+l51
+L20
+VPJT1Hk_1@RAO<Fbz8PTbY2
+!s100 f9oFFknid8>dY]8mhO[?@3
+R10
+32
+R28
+!i10b 1
+R29
+R126
+R127
+!i113 0
+R15
+R16
+Esimp_w8_1pip
+Z128 w1621090114
+R17
+R24
+R18
+R5
+R6
+R7
+Z129 8/home/mcre310/TFM/Comparison_Rotators/Simp_W8_1Pip.vhd
+Z130 F/home/mcre310/TFM/Comparison_Rotators/Simp_W8_1Pip.vhd
+l0
+L10
+V>_N2CgC8=a11_LC7BW?;O3
+!s100 BieV=nY[aIm]flSe[bad70
+R10
+32
+R28
+!i10b 1
+R29
+Z131 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/Simp_W8_1Pip.vhd|
+Z132 !s107 /home/mcre310/TFM/Comparison_Rotators/Simp_W8_1Pip.vhd|
+!i113 0
+R15
+R16
+Asimp_w8_1pip_arch
+R17
+R24
+R18
+R5
+R6
+DEx4 work 12 simp_w8_1pip 0 22 >_N2CgC8=a11_LC7BW?;O3
+l63
+L24
+Vk]QW`8Ji:=WdL4D:LfYD21
+!s100 [VX=KAHOb4=^dgLiE>Z8H1
+R10
+32
+R28
+!i10b 1
+R29
+R131
+R132
+!i113 0
+R15
+R16
+vSimp_W8_Input_Data_size16
+R28
+!i10b 1
+!s100 ;O>naaY6<AXR0nOG:K=9=2
+IHh9E[k5d;8UJNmO1jUME31
+VDg1SIo80bB@j0V0VzS_@n1
+R7
+w1625270220
+8/home/mcre310/TFM/Comparison_Butterfly/Syntetization/Rotators/Sh_Add_8/SFF_mem.v
+F/home/mcre310/TFM/Comparison_Butterfly/Syntetization/Rotators/Sh_Add_8/SFF_mem.v
+L0 8
+OE;L;10.6c_1;65
+r1
+!s85 0
+31
+R29
+!s107 /home/mcre310/TFM/Comparison_Butterfly/Syntetization/Rotators/Sh_Add_8/SFF_mem.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Butterfly/Syntetization/Rotators/Sh_Add_8/SFF_mem.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@simp_@w8_@input_@data_size16
+Etb_rotator_directmult_w32
+Z133 w1620679288
+R18
+R5
+R6
+R7
+Z134 8/home/mcre310/TFM/Comparison_Rotators/tb_Rotator_DirectMult_W32.vhd
+Z135 F/home/mcre310/TFM/Comparison_Rotators/tb_Rotator_DirectMult_W32.vhd
+l0
+L7
+V>zK>EB7L>hS?hXklFh5kW1
+!s100 R`9]iSfc:5IJ8[U944N;n3
+R10
+32
+R11
+!i10b 1
+R12
+Z136 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/tb_Rotator_DirectMult_W32.vhd|
+Z137 !s107 /home/mcre310/TFM/Comparison_Rotators/tb_Rotator_DirectMult_W32.vhd|
+!i113 0
+R15
+R16
+Abehaviour
+R18
+R5
+R6
+DEx4 work 25 tb_rotator_directmult_w32 0 22 >zK>EB7L>hS?hXklFh5kW1
+l50
+L10
+VA3R>oWI@mHY:JM`K:^;JA0
+!s100 PI?YQUUS<MHXNzG<jMDYC1
+R10
+32
+R11
+!i10b 1
+R12
+R136
+R137
+!i113 0
+R15
+R16
+Etb_rotator_directmult_w8
+Z138 w1620665782
+R18
+R5
+R6
+R7
+Z139 8/home/mcre310/TFM/Comparison_Rotators/tb_Rotator_DirectMult_W8.vhd
+Z140 F/home/mcre310/TFM/Comparison_Rotators/tb_Rotator_DirectMult_W8.vhd
+l0
+L6
+VS;AfV`@mezR`5XWQBE9BP0
+!s100 9MDW3;4TRJmH_okbcZ`Be0
+R10
+32
+R11
+!i10b 1
+R12
+Z141 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/tb_Rotator_DirectMult_W8.vhd|
+Z142 !s107 /home/mcre310/TFM/Comparison_Rotators/tb_Rotator_DirectMult_W8.vhd|
+!i113 0
+R15
+R16
+Abehaviour
+R18
+R5
+R6
+DEx4 work 24 tb_rotator_directmult_w8 0 22 S;AfV`@mezR`5XWQBE9BP0
+l48
+L9
+VZ66f2_QF?NbPKiD9BoaXg1
+!s100 M?DzSdda`CH;>=9he87PB2
+R10
+32
+R11
+!i10b 1
+R12
+R141
+R142
+!i113 0
+R15
+R16
+Etb_rotator_w32
+Z143 w1623369704
+R18
+R5
+R6
+R7
+Z144 8/home/mcre310/TFM/Comparison_Rotators/tb_Rotator_W32.vhd
+Z145 F/home/mcre310/TFM/Comparison_Rotators/tb_Rotator_W32.vhd
+l0
+L7
+V[BCS]]9aR>_Z`0<A@U]N=1
+!s100 egARNB8EVigcUe4KLZ;hS3
+R10
+32
+R11
+!i10b 1
+R12
+Z146 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/tb_Rotator_W32.vhd|
+Z147 !s107 /home/mcre310/TFM/Comparison_Rotators/tb_Rotator_W32.vhd|
+!i113 0
+R15
+R16
+Abehaviour
+R18
+R5
+R6
+DEx4 work 14 tb_rotator_w32 0 22 [BCS]]9aR>_Z`0<A@U]N=1
+l64
+L10
+VAccUUd;2CJ^Dnifa2S4E:1
+!s100 PH5ZW]e<UKQVzA:AcWZM<0
+R10
+32
+R11
+!i10b 1
+R12
+R146
+R147
+!i113 0
+R15
+R16
+Etb_rotator_w4
+Z148 w1621004110
+R18
+R5
+R6
+R7
+Z149 8/home/mcre310/TFM/Comparison_Rotators/tb_Rotator_W4.vhd
+Z150 F/home/mcre310/TFM/Comparison_Rotators/tb_Rotator_W4.vhd
+l0
+L6
+VnTF^nZR4EB>L8aCR5kRei2
+!s100 gc9bz7ecn@iJYm=HjjR^f1
+R10
+32
+R11
+!i10b 1
+R12
+Z151 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/tb_Rotator_W4.vhd|
+Z152 !s107 /home/mcre310/TFM/Comparison_Rotators/tb_Rotator_W4.vhd|
+!i113 0
+R15
+R16
+Abehaviour
+R18
+R5
+R6
+DEx4 work 13 tb_rotator_w4 0 22 nTF^nZR4EB>L8aCR5kRei2
+l46
+L9
+Vog@z<Z4HoIo19zcoQjf4D3
+!s100 ea6]je0Y?e]E99=`Go;^[0
+R10
+32
+R11
+!i10b 1
+R12
+R151
+R152
+!i113 0
+R15
+R16
+Etb_rotator_w8
+Z153 w1619090452
+R18
+R5
+R6
+R7
+Z154 8/home/mcre310/TFM/Comparison_Rotators/tb_RotatorW8.vhd
+Z155 F/home/mcre310/TFM/Comparison_Rotators/tb_RotatorW8.vhd
+l0
+L6
+VP_Y<ZM;hcn@1?7nCd9e2c3
+!s100 Fc4A>h[H]V5Ufe3leU7Wd0
+R10
+32
+R11
+!i10b 1
+R12
+Z156 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/tb_RotatorW8.vhd|
+Z157 !s107 /home/mcre310/TFM/Comparison_Rotators/tb_RotatorW8.vhd|
+!i113 0
+R15
+R16
+Abehaviour
+R18
+R5
+R6
+DEx4 work 13 tb_rotator_w8 0 22 P_Y<ZM;hcn@1?7nCd9e2c3
+l51
+L9
+V2O]3;c83PcG756f[D:obo1
+!s100 EE@zZV@=[l4kLUR2aMTa;0
+R10
+32
+R11
+!i10b 1
+R12
+R156
+R157
+!i113 0
+R15
+R16
+Etb_simp_w8
+Z158 w1620994956
+R18
+R5
+R6
+R7
+Z159 8/home/mcre310/TFM/Comparison_Rotators/tb_Simp_W8.vhd
+Z160 F/home/mcre310/TFM/Comparison_Rotators/tb_Simp_W8.vhd
+l0
+L7
+VRekX0lPEXzDI:nIa[_k3n2
+!s100 b74oO>ZdjD7R?C[TM1W9E2
+R10
+32
+R28
+!i10b 1
+R29
+Z161 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/mcre310/TFM/Comparison_Rotators/tb_Simp_W8.vhd|
+Z162 !s107 /home/mcre310/TFM/Comparison_Rotators/tb_Simp_W8.vhd|
+!i113 0
+R15
+R16
+Abehaviour
+R18
+R5
+R6
+DEx4 work 10 tb_simp_w8 0 22 RekX0lPEXzDI:nIa[_k3n2
+l51
+L10
+Vn0W:Nd:0QV6;W2z@MY>7K3
+!s100 A@1Ym]c>aS]_2h_mcfnzl1
+R10
+32
+R28
+!i10b 1
+R29
+R161
+R162
+!i113 0
+R15
+R16
+Etb_simp_w8_1pip
+Z163 w1620994277
+R18
+R5
+R6
+R7
+R159
+R160
+l0
+L7
+Vj605<GQCSRK65>1YJY?<_3
+!s100 RXgI2?de[m:UCdD=VSMBS3
+R10
+32
+Z164 !s110 1620994379
+!i10b 1
+Z165 !s108 1620994379.000000
+R161
+R162
+!i113 0
+R15
+R16
+Abehaviour
+R18
+R5
+R6
+DEx4 work 15 tb_simp_w8_1pip 0 22 j605<GQCSRK65>1YJY?<_3
+l52
+L10
+V6UT4AF<_07_NJ_S?1G_RA0
+!s100 6gG=B]J;6?bzEzPg6zDR60
+R10
+32
+R164
+!i10b 1
+R165
+R161
+R162
+!i113 0
+R15
+R16
